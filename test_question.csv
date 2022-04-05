@@ -1,0 +1,201 @@
+﻿Test,Question,Problem
+1,1,"Network of manufacturers and service providers that work together to convert goods from raw material to end user. Linked through physical flows, information flows, and monetary flows."
+1,2,"The collection of people, process, technology, and systems within an organization that has primary responsibility for providing products or services."
+1,3,Activities or firms positioned later in the supply chain relative to another activity or firm of interest.
+1,4,A comprehensive model of the core management processes and individual process types that together define the domain of supply chain management.
+1,5,Design and implement the transformation processes that best meet the needs of customers and the firm.
+1,6,Develop the planning numbers needed for effective decision making.
+1,7,Manage the amount and placement of inventory within the company and the supply chain.
+1,8,Schedule and manage the flow of work through an organization and the supply chain; match customers demand to supply chain activities.
+1,9,Identify and quantify suppliers of goods and services; manage the ongoing buyer-supplier relationships.
+1,10,Manage the movement of physical goods throughout the supply chain.
+1,11,"Includes tangible resources such as buildings, equipment, and computer systems."
+1,12,"Includes the policies, people, decision rules, and organizational structure choices made by a firm."
+1,13,"This describes what's important to the organization, called its core values, and identifies the organization's domain."
+1,14,The strategy that identifies the firms targeted customers and sets time frames and performance objectives for the business.
+1,15,"Organizational strengths or abilities, developed over a long period, that customers find valuable and competitors find impossible to copy."
+1,16,"Translates a business strategy into specific actions for the functional areas such as marketing, human resources, and finance. Should align with overall business strategy."
+1,17,Characteristics of a product or service that bear on its ability to satisfy stated or implied needs.
+1,18,What are Four Performance Dimensions?
+1,19, Business process that helps firms plan and coordinate operations and supply chain decisions over a tactical time horizon.
+1,20,"Planning that takes place at the highest levels of firm, addressing needs that might not arise for years into the future."
+1,21,"Planning that covers a shorter period, usually four months to a year out."
+1,22,"Planning that covers time periods ranging from weeks, down to just a few hour into the future."
+1,23,"Approach to S&OP where a single, aggregated sales forecast drives planning process. Product mixes and resource requirements must be similar period-to-period."
+1,24,Approach to S&OP where product/service mix is unstable and requirements vary. Managers add up requirements for each product/service separately and then total to get an overall picture.
+1,25,"Maintaining a steady rate of regular-time production, building up inventory when demand is low, and using built up inventory when demand is high."
+1,26,Increase and Decrease the rate of production to match the expected demand.
+1,27,A Sales and Operations plan that varies both production and inventory levels in an effort to develop the most effective plan.
+1,28,"An estimate of the future level of some variable, such as demand levels, supply levels, and prices."
+1,29,Quantitative forecasting models that use time series to develop forecasts.
+1,30,A time series forecasting model that derives a forecast by taking an average of recent demand values.
+1,31,Type of manufacturing process used to produce a narrow range of standard items with identical or highly similar designs.
+1,32,A type of layout where resources are arranged sequentially according to the steps required to make a product.
+1,33,"For a line process, the actual time between completions of successive units on a production line."
+1,34,"Type of manufacturing process that is similar to a production line however, the product cannot be broken into discrete units."
+1,35,Type of manufacturing process used to make a wide variety of highly customized products in quantities as small as one. General-purpose equipment and broadly-skilled workers.
+1,36,Type of layout where resources are physically grouped by function.
+1,37,Type of manufacturing process where items are moved through the different manufacturing steps in groups.
+1,38,"Type of Manufacturing layout in which the position of the product is fixed. Materials, equipment, and workers are transported to and from the product."
+1,39,Products that are customized only at the very end of the manufacturing process.
+1,40,"Products that use standard components, but the final configuration of those components is customer-specific."
+1,41,Products that are designed and produced from the start to meet unusual customer needs or requirements. Represents highest level of customization.
+1,42,Set of logically related tasks or activities performed to achieve a defined business outcome.
+1,43,Process that addresses the main value-added activities of an organization.
+1,44,Process that seeks to improve the performance of primary and support processes.
+1,45,"Detailed map that identifies the specific activities that make up the informational, physical, and/or monetary flows of a process."
+1,46,A measure of process performance; ratio of outputs to inputs.
+1,47,A measure of process performance; the ratio of actual outputs to standard outputs.
+1,48,"The capability of a worker, machine, work center, plant or organization to produce output per time period."
+1,49,Volume level for a business at which total revenues covers total costs.
+1,50,Inventory that is moving from one link in the supply chain to another.
+2,1,"Not merely controlling user access to files or services. The relationship between subjects and objects. Mission: Protect the confidentiality, integrity, and availability of objects."
+2,2,Strings of characters typed to authenticate someone wanting to use a username (account) on a computer.
+2,3,Ease of use for users (familiar). Inexpensive because built in to operating systems.
+2,4,"The first phase in the NIST performance measures methodology is to collect data and analyze results; collect, aggregate, and consolidate metric data collection and compare measurements with targets"
+2,5,Necessary to detect malicious actions by subjects. Part of the auditing stage of the subject accountability process. Sources of Information
+2,6,testing of evidence of users identity
+2,7,"user claims identity, used for user access control"
+2,8,level of confidentiality and privacy protections
+2,9,process that analyzes threat scenarios and produces a representation of the estimated potential loss
+2,10,Which of the following is the first phase in the NIST process for performance measures implementation
+2,11,"technical training to react to situations, best practices for security and network personnel. Employees need to understand policies then use presentations and posters etc to get them aware"
+2,12,One of the most popular of the many references that support the development of process improvement and performance measures is The Capability Maturity Model Integrated (CMMI) designed specifically to integrate an organization's process improvement activities across disciplines
+2,13,"required due to laws, regulations, compliance and specific industry standards"
+2,14,same as standards but not forced to follow
+2,15,"Organizations typically use three types of performance measures, including those that assess the impact of a(n) ____________________ or other security event on the organization or its mission."
+2,16,"Performance measurement is an ongoing, continuous improvement operation. "
+2,17,"In some organizations, the terms metrics and best practices are interchangeable. "
+2,18,"In the NIST performance measures implementation process, the comparison of observed measurements with target values is known as a ____ analysis."
+2,19,"Security of information creation, processing, storage, retrieval, transmission, dissemination and disposition."
+2,20,Risk assessment activities designed to identify potential vulnerabilities that an adversary may exploit to obtain critical information.
+2,21,Protection of persons associated with an organization as well as protection from individuals who seek to harm the organization.
+2,22,"Tangible objects, lighting, surveillance and alarm systems, and security personnel devoted to access control."
+2,23,Security programs controlled and financed directly by the protected organization.
+2,24,"Multifaceted and interdisciplinary management tactics and strategies designed to secure persons, property, and information and prevent losses from and source."
+2,25,Today and sophisticated and complex and virtually defy a simple definition.
+2,26,"A(n) baseline is a ""value or profile of a performance metric against which changes in the performance metric can be usefully compared."""
+2,27,Term used to describe the development and implementation of the countermeasures identified in risk assessments; prevention of adverse technical surveillance caused by the use of intrusion devices.
+2,28,"Send PRIVATE Signature authenticate encrypt with PUBLIC KEY, decrypt w persons PRIVATE decryption key, verify with PUBLIC signature."
+2,29,"Protection of information and it's elements (Confidentiality, integrity, availability) Protection of systems and hardware"
+2,30,6 Principles of Information Security Management
+2,31,Make the most of materials on hand.Must balance benefits of planning effort against the costs of effort.
+2,32,Benefits of Governance are the following?
+2,33,Identify vulnerabilities in info system and take step to insure them.
+2,34,Maintaining an acceptable level of secure controls over time indicates that an organization has met the standard of ____.
+2,35,Best security practices balance the need for information ____________________ with the need for adequate protection while simultaneously demonstrating fiscal responsibility.
+2,36,generic blueprint offered by a service organization
+2,37,Allocation of users into groups of logical access to info system and physical access to org facilities
+2,38,Structure and organization of effort that looks to contain information security risks
+2,39,Which of the following is included in the security management plan:
+2,40,Immediately report any acts or threats of violence or disruptive behavior.
+2,41,It is NOT necessary to alert Security if I have a domestic issue that may spill over to the workplace 
+2,42,"Salem Health has a ""zero tolerance"" policy against violence in the workplace. "
+2,43,The Security Department is not able to provide assistance with lost and found property. 
+2,44,"Some of the duties of security field staff are to respond to security calls and provide access control, and provide escorts as needed."
+2,45,Which of the following are responsibilities of the Security Department:
+2,46,Which of the following personal security concerns would affect the work environment:
+2,47,"Security personnel who are direct employees of the organization. business, or institution are referred to as ________ security"
+2,48,"To protect against human based threats, organizations need to have well designed and comprehensive physical security programs. any effective physical security program encompasses to supporting elements: physical protective measures and __________ security measures"
+2,49,"According to NIST SP 800-37, the first step in the security controls selection process is to ____."
+2,50,Best security practices (BSPs) balance the need for information access with the need for adequate protection while simultaneously demonstrating social responsibility.
+3,1,"______________ are defined as the limits within which decisions must be made. They may be described by regulations, contracts, agreements, deals, warranties, certifications, or other legal obligations. These policies can influence the business analysis approach."
+3,2,The purpose of __________________ is to plan an approach for establishing and maintaining effective working relationships with the stakeholders.
+3,3,Business analysts analyze stakeholder attitudes about which of the following (select the one choice that does NOT apply):
+3,4,"When planning the governance approach, business analysts identify (select which one does NOT apply):"
+3,5,____________ is used to understand roles/responsibilities within the organization in an effort to define a governance approach that involves the right stakeholders.
+3,6,______________ help stakeholders uncover their business analysis information management needs.
+3,7,"__________________ is used to define business analysis processes and understand how to improve those processes to reduce problems from hand-offs, improve cycle times, or alter how business analysis work is performed to support improvements in downstream processes."
+3,8,"Business Analysis Performance Assessment includes a comparison of __________________, identifying the root cause of variances from the expected performance, proposed approaches to address issues, and other findings to help understand the performance of business analysis processes."
+3,9,The plan traceability approach is based on which of the following (select the answer that does NOT apply):
+3,10,__________________ identifies the stakeholders who will have the responsibility and authority to make decisions about business analysis work including who will be responsible for setting priorities and who will approve changes to business analysis information.
+3,11,__________________ is used to find if past initiatives have identified valuable experiences with governance that can be leveraged on current or future initiatives.
+3,12,"__________________ are a group or individual with a relationship to the change, the need, or the solution."
+3,13,____________ is the drawing forth or receiving of information from stakeholders or other sources
+3,14,"_____________ Plan includes the planned elicitation activities and techniques, activity logistics (for example, date, time, location, resources, agenda), scope of the elicitation activity, and available sources of background information."
+3,15,________________ Approach describes the types of expected engagement with stakeholders and how they might need to be managed
+3,16,Business analysts monitor the participation and performance of stakeholders to ensure that: (select the one that does NOT apply)
+3,17,Maintenance of Requirements ensures that requirements and designs are accurate and current throughout the life cycle and facilitates requirements reuse where appropriate.
+3,18,The __________________ knowledge area describes the tasks that business analysts perform in order to manage and maintain requirements and design information from inception to retirement.
+3,19,__________________ is used to identify data structure that may be similar across the enterprise in order to facilitate reuse.
+3,20,"Project Sponsors are responsible for ensuring clear communication of requirements, designs, and other business analysis information to the key stakeholders responsible for approving that information."
+3,21,Requirement Traceability enables which of the following: (select which answer does NOT apply)
+3,22,"When considering changes or additions to existing requirements, business analysts assess the impact of the proposed change by considering which of the following: (select which one does NOT apply)"
+3,23,"_____________ ___provides an understanding of the value proposition that the enterprise satisfies for its customers, the critical factors in delivering that value, and the resulting cost and revenue streams."
+3,24,"The ________________ knowledge area describes the business analysis work that must be performed to collaborate with stakeholders in order to identify a need of strategic or tactical importance (the business need), enable the enterprise to address that need, and align the resulting strategy for the change with higher- and lower-level strategies."
+3,25,"_________ are longer term, ongoing, and qualitative statements of a state or condition that the organization is seeking to establish and maintain."
+3,26,Strategies may exist for which of the following: (select the answer that does NOT apply)
+3,27,Which of the following is NOT an accurate definition of the acronym SMART when referring to objectives:
+3,28,"Constraints describe aspects of the current state, aspects of the planned future state that may not be changed by the solution, or mandatory elements of the design."
+3,29,The Strategy Analysis knowledge area includes which of the following tasks: (select the answer that does NOT apply)
+3,30,"______________can be used to determine if the enterprise can meet its needs using its existing structure, resources, capabilities, and technology"
+3,31,The Requirements Analysis and Design Definition knowledge area includes which of the following tasks: (select the answer that does NOT apply)
+3,32,Requirements Analysis and Design Definition knowledge area comes in between what two activities?
+3,33,"Models may also be used to confirm knowledge, identify information gaps that the business analyst may have, and identify duplicate information."
+3,34,What are the two modelling formats:
+3,35,Business analysts use a requirements architecture to: (select the answer that does NOT apply)
+3,36,"______________ are alternative results that might have been achieved if the resources, time, and funds devoted to one design option had been allocated to another design option."
+3,37,"______________ describes tasks that analyze the actual value being delivered, identifies limitations which may be preventing value from being realized, and makes recommendations to increase the value of the solution."
+3,38,The Solution Evaluation knowledge area includes which of the following tasks: (select the answer that does NOT applies)
+3,39,__________________ determine the value of a newly deployed or existing solution.
+3,40,The ________________ is performed to determine if an enterprise is able to adapt to or effectively use a solution.
+3,41,"When conducting an operational assessment, business analysts consider which of the following: (select the answer that does NOT apply)"
+3,42,"A __________ represents a small, concise statement of functionality or quality needed to deliver value to a specific stakeholder."
+3,43,_______________ are used to model the logic of usage scenarios by showing the information passed between objects in the system through the execution of the scenario.
+3,44,A risk analysis
+3,45,A use case
+3,46,"__________ and ________________ are conducted to improve organizational operations, increase customer satisfaction, and increase value to stakeholders."
+3,47,The balanced scorecard is used in financial modeling
+3,48,"____________ measure the performance of solutions, solution components, and other matters of interest to stakeholders. (select the answer that does NOT apply)"
+3,49,____________ formally assesses a problem and possible decisions in order to determine the value of alternate outcomes under conditions of uncertainty.
+3,50,"____________ are used to define the requirements, outcomes, or conditions that must be met in order for a solution to be considered acceptable to key stakeholders"
+4,1,Develop a __________ is the process of developing a document that formally authorizes the existence of a project and provides the project manager with authority to apply organizational resources to project activities.
+4,2,___________ describes how individual requirements meet the business need for the project.
+4,3,"There are multiple classification models used for stakeholder analysis such as Power/interest grid, Power/influence grid, Salience model, and ____________. "
+4,4,Identifying high-level risks and stakeholder lists both are elements of the _____________.
+4,5,"The key purpose of the _______________is to align the stakeholders  expectations with the project  purpose, give them visibility about the scope and objectives, show how their participation in the project and its associated phases can ensure that their expectations are achieved."
+4,6,A project _____________ is defined as the point in time that a project or project phase is authorized to its completion.
+4,7,"______________is the process that establishes the policies, procedures, and documentation for planning, managing, expending, and controlling project costs."
+4,8,"While all projects share the need to communicate project information, the information needs and methods of distribution may vary widely. In addition, the methods of storage, retrieval, and ultimate disposition of the project information need to be considered and appropriately documented during this process. Important considerations that may need to be taken into account include which of the following (select the answer that does NOT apply):"
+4,9,"______________involves setting a fixed total price for a defined product, service, or result to be provided."
+4,10," ______________is a component of the project management plan that describes how the roles and responsibilities, reporting relationships, and staff management will be addressed and structured."
+4,11,"______________reviews all requests for changes or modifications to project documents, deliverables, baselines, or the project management plan and approves or rejects the changes. The key benefit of this process is that it allows for documented changes within the project to be considered in an integrated fashion while reducing project risk, which often arises from changes made without consideration to the overall project objectives or plans."
+4,12,____________is a quality management planning tool that provides a process for creative problem-solving in moderately complex scenarios that possess intertwined logical relationship.
+4,13,____________is a technique that enhances brainstorming with a voting process used to rank the most useful ideas for further brainstorming or prioritization.
+4,14,"Project Risk Management includes the processes of____________, identification, analysis, response planning, and controlling risk on a project."
+4,15," Creating a ___________ (WBS) is the process of subdividing project deliverables and project work into smaller, more manageable components. The key benefit of this process is that it provides a structured vision of what has to be delivered."
+4,16,"The ____________for the project is the approved version of the project scope statement, work breakdown structure (WBS), and its associated WBS dictionary."
+4,17,"_____________identifies how the project will affect stakeholders, which then allows the project manager to develop various ways to engage stakeholders in the project effectively, to manage their expectations, and to ultimately achieve the project objectives."
+4,18,Plan schedule management tools are: Expert Judgment and ____________.
+4,19,"The ______________consists of those processes performed to complete the work defined in the project management plan to satisfy the project specifications. This Process Group involves coordinating people and resources, managing stakeholder expectations, as well as integrating and performing the activities of the project per the project management plan."
+4,20,"_____________is the process of identifying quality requirements and standards for the project and its deliverables, and documenting how the project will demonstrate compliance with relevant quality requirements."
+4,21," The _____________ (SOW) describes the procurement item in sufficient detail to allow prospective sellers to determine if they are capable of providing the products, services, or results."
+4,22,"For internal projects, the ______________provides the statement of work based on business needs, product, or service requirements."
+4,23,"For external projects, the statement of work can be received from the ______________as part of a bid document. "
+4,24,"The SOW references are business need, project scope description, and ____________"
+4,25,Program management focuses on the project interdependencies and helps to determine the optimal approach for managing them. Actions related to these interdependencies may include (select the answer that does NOT apply):
+4,26,_____refers to the centralized management of one or more portfolios to achieve strategic objectives.
+4,27,______________is often utilized as a means of directly or indirectly achieving objectives within an organization’s strategic plan.
+4,28,A project budget includes all the funds authorized to execute the project. ___________is the approved version of the time-phased project budget but excludes management reserves.
+4,29,"The total funds required are those included in the cost baseline, plus _____________if any. Funding requirements may consist of the source(s) of the funding."
+4,30,"The processes of calculating project budgets are ______________, estimate costs, determine the budget, and control costs"
+4,31,____________is the process of auditing the quality requirements and the results from quality control measurements to ensure that appropriate quality standards and operational definitions are used.
+4,32,"____________ is a cost estimating method may include analysis of what the project should cost, based on the responsive bids from qualified vendors."
+4,33,"Communicating with customers, vendors, other projects, organizations, and the public is an _____________communication activity."
+4,34," Some of the elements in the processes of ______________ are: PDCA (plan-do-check-act) cycle is the basis for quality improvement as defined by Shewhart and modified by Deming; also, quality improvement initiatives such as Total Quality Management (TQM), Six Sigma, and Lean Six Sigma could improve the quality of the project’s management as well as the quality of the project’s product; commonly used process improvement models include Malcolm Baldrige, Organizational Project Management Maturity Model (OPM3®), and Capability Maturity Model Integrated (CMMI.) "
+4,35,________________examines project performance over time to determine whether performance is improving or deteriorating.
+4,36,"_______________is a measure of the level of uncertainty or the level of impact at which a stakeholder may have a specific interest. Below that risk threshold, the organization will accept the risk. "
+4,37,"____________is the degree, amount, or volume of risk that an organization or individual will withstand."
+4,38,"The seven essential quality tools, also known in the industry as 7QC Tools, are used within the context of the PDCA Cycle to solve quality-related problems. Which of the following is not one of the 7QC Tools?"
+4,39,Risk identification checklists are developed based on _______________and knowledge that has been accumulated from previous similar projects and other sources of information.
+4,40,___________is the process of developing options and actions to enhance opportunities and to reduce threats to project objectives.
+4,41,"Three strategies, which typically deal with threats or risks that may have negative impacts on project objectives if they occur, are: avoid, _______________, and mitigate. The fourth strategy, accept, can be used for adverse risks or threats as well as positive risks or opportunities."
+4,42,The following responses are suggested to deal with risks with potentially positive impacts on project objectives (select the answer that does NOT apply). 
+4,43,"Managing stakeholder engagement may result in the development of an ____log. This log is updated as new issues are identified, and current issues are resolved."
+4,44,"The following activities that are applied during Control Procurement may include, but are not limited to (select all that does NOT apply):"
+4,45,"______________is prepared by the buyer. Such performance evaluations document the seller  ability to continue to perform work on the current contract, indicate if the seller can be allowed to perform work on future projects or rate how well the seller is delivering the project work."
+4,46,A ___________is used by the project manager to manage contract and procurement documentation and records.
+4,47,A ____________is a structured review of the procurement process originating from the Plan Procurement Management process through Control Procurements.
+4,48,"______________consisting of formal documentation that indicates completion of the project or phase and the transfer of the completed project or phase deliverables to others, such as an operation group or to the next phase."
+4,49," The buyer, usually through its authorized procurement administrator, provides the seller with formal written notice that the contract has been completed. Requirements for formal procurement closure are typically defined in _______________and are included in the procurement management plan."
+4,50,"________________is what has been experienced, and process improvement recommendations, should be developed for the project file to improve future procurements."

@@ -1,0 +1,204 @@
+﻿Test,Question,A,B,C,D,E,right_answer
+1,1,Supply Chain,Supply Chain management,,,,1
+1,2,Collection function,Operations function,,,,1
+1,3,Downstream,Upstream,,,,1
+1,4,SC model,SCOR Model,,,,2
+1,5,Process Selection,Transformation process,,,,1
+1,6,Decision making, Forecasting,,,,2
+1,7,Inventory Management,Supply chain management,,,,1
+1,8,Organizing and leading,Planning and Control,,,,2
+1,9,Purchasing,Managing,,,,1
+1,10,transportation,Logistics,,,,2
+1,11,Structural Elements,Infrastructural Elements,,,,1
+1,12,Structural Elements,Infrastructural Elements,,,,2
+1,13,Mission Statement,Objective Statement,,,,1
+1,14, Functional Strategy,Business Strategy,,,,2
+1,15,Core Competencies,Strength,,,,1
+1,16,Business Strategy, Functional Strategy,,,,2
+1,17,Quality,Quantity,,,,1
+1,18,"Quality, Time, Flexibility, Management","Quality, Time, Flexibility, Cost",,,,2
+1,19,Sales and Operations Planning,Strategic Planning,,,,1
+1,20,Tactical Planning,Strategic Planning,,,,2
+1,21, Tactical Planning,Strategic Planning,,,,1
+1,22,Detailed Organizing and leading,Detailed Planning and Control,,,,2
+1,23,Top-Down Planning,Bottom-Up Planning,,,,1
+1,24,Top-Down Planning,Bottom-Up Planning,,,,2
+1,25,Level Capacity Strategy,Chase Demand Strategy,,,,1
+1,26,Level Capacity Strategy,Chase Demand Strategy,,,,2
+1,27,Mixed Capacity Strategy,Level Capacity Strategy,,,,1
+1,28,Forecast,monitoring,,,,1
+1,29,Time Series Model,Moving Average Model,,,,1
+1,30,Time Series Model,Moving Average Model,,,,2
+1,31,Production Line, promote line,,,,1
+1,32,Resources-Based Layout,Product-Based Layout,,,,2
+1,33,Lead Time,Cycle Time,,,,2
+1,34,Continuous Flow Process,Batch process,,,,1
+1,35,factory,Job Shop,,,,2
+1,36,Functional Layout,Fixed-Position Layout,,,,1
+1,37,Batch Manufacturing,Job shop,,,,1
+1,38,Functional Layout,Fixed-Position Layout,,,,2
+1,39,Finish-to-Order products,Make-to-Order products,,,,1
+1,40,Finish-to-Order products,Make-to-Order products,,,,2
+1,41,Engineer-to-Order products,Make-to-Order products,,,,1
+1,42,Primary Process,Business Process,,,,2
+1,43,Primary Process,Business Process,,,,1
+1,44,Business Process,Development Process,,,,2
+1,45,Process Map,Business process map,,,,1
+1,46,Input-output analysis,Productivity,,,,2
+1,47,Efficiency,Capacity,,,,1
+1,48,Efficiency,Capacity,,,,2
+1,49,Break-Even Point,Break-Even Price,,,,1
+1,50,Inventory in transit,Transportation Inventory,,,,2
+2,1,Access Control,Enter Control,,,,1
+2,2,Code,Passwords,,,,2
+2,3,Benefits,Advantages,,,,1
+2,4,TRUE,FALSE,,,,2
+2,5,Monitoring,Cloud monitoring,,,,1
+2,6,authentication,identification,,,,2
+2,7,identification,authentication,,,,1
+2,8,privacy,access,,,,1
+2,9,risk analysis,risk management,,,,1
+2,10,Prepare for data collection,Detection and Analysis,,,,1
+2,11,security awareness,security training,,,,1
+2,12,True ,FALSE,,,,1
+2,13,regulatory policy type,self-regulatory policy,,,,1
+2,14,guidelines,policy,,,,1
+2,15,Incident,accident,,,,1
+2,16,True ,FALSE,,,,1
+2,17,True ,FALSE,,,,2
+2,18,Gap,Gas,,,,1
+2,19,Information Security,Operation Security,,,,1
+2,20,Operation Security,Information Security,,,,1
+2,21,Personal Security,Physical Security,,,,1
+2,22,Physical Security,Personnel Security,,,,1
+2,23,Proprietary Security,Personal Security,,,,1
+2,24,Security Management,Security Control,,,,1
+2,25,Security Management,Security Services,,,,2
+2,26,Ture,FALSE,,,,1
+2,27,Technical Security,Proprietary Security,,,,1
+2,28,Decoding,Encryption,,,,2
+2,29,Technical Security,Information Security,,,,2
+2,30,"Planning, policy, programs, protection, people, projects","Planning, privacy, programs, protection, people, projects",,,,1
+2,31,Program,Planning,,,,2
+2,32,Ture,FALSE,,,,1
+2,33,Security Management,Risk Management,,,,2
+2,34,due diligence,others,,,,1
+2,35,others,Access,,,,2
+2,36,Security model,Risk model,,,,1
+2,37,Risk Control,Access Control,,,,2
+2,38,Information Security Program,Cybersecurity Program,,,,1
+2,39,Purpose,Scope of authority,Core responsibilities,Operations,All of the above,5
+2,40,TRUE,FALSE,,,,1
+2,41,True ,FALSE,,,,2
+2,42,TRUE,FALSE,,,,1
+2,43,True ,FALSE,,,,2
+2,44,TRUE,FALSE,,,,1
+2,45,"Establish procedures and maintain security of individuals, facility and property.",Response to security calls-for-service.,"Provide security patrols of campus, facilities and structures.",Monitors access control to the hospital.,All of the above,5
+2,46,Restraining orders,stocking,returning or obscene phone calls,all of the above,,4
+2,47,proprietary,stocking,,,,1
+2,48,procedural,proprietary,,,,1
+2,49,stocking,characterize the system,,,,2
+2,50,True ,FALSE,,,,2
+3,1,Business Policies ,Requirements,Risks,Authorizations,,1
+3,2,The Plan for Stakeholder Engagement ,The Requirements Specifications,The Communications Plan,The Project Charter,,2
+3,3,"
+The customers of the business",The program budget,"Business goals, objectives of the initiative, and any proposed solutions                             ",Team members and other stakeholders,,1
+3,4,who has responsibility for initiating change requests,what the process for proposing a change to business analysis information is,who has the authority to approve changes,how changes will be documented and communicated,,2
+3,5,Organizational Modeling,Requirements Specification,Staffing Planning,Budget Management,,1
+3,6,Brainstorming,Needs Specification,Communications Planning,Budget Management ,,2
+3,7,Process Modeling,Requirements Specification,Brainstorming,After Action Reports,,1
+3,8,planned versus actual performance,needs versus requirements,budget versus needs,staff versus budget,,2
+3,9,the simplicity of the domain,the number of views of requirements that will be produced,"any requirement-related risks, organizational standards, applicable regulatory requirements",an understanding of the costs and benefits involved with tracing ,,1
+3,10,Governance approach,Financial planning,Brainstorming,Requirements Specification,,2
+3,11,Lessons Learned,Requirements Specifications,After Action Reports,Fault-Finding ,,1
+3,12,Stakeholders,Vendors,Clients,Staff,,2
+3,13,Elicitation,Collaboration,Teaming,Communication,,1
+3,14,Elicitation Activity,Requirements Definition,Conflict Resolution,Communications,,2
+3,15,Stakeholder Engagement,Vendor Engagement,Team Engagement,Shareholder Engagement,,1
+3,16,"
+elicitation results are reviewed after project is completed",the right subject matter experts (SMEs) and other stakeholders are participating effectively,stakeholder attitudes and interest are staying constant or improving,agreements and commitments are maintained,,2
+3,17,TRUE,False ,,,,1
+3,18,Requirements Life Cycle Management,Procurements Life Cycle Management,Project Life Cycle Management,Program Life Cycle Management,,2
+3,19,Data modelling,Specifying requirements,Brainstorming,Mind Mapping,,1
+3,20,FALSE,TRUE,,,,2
+3,21,error-free execution,faster and simpler impact analysis,,,,1
+3,22,Traceability,Cost,Impact,Urgency,,2
+3,23,Business Model Canvas,Mind Mapping,Requirements Traceability,Brainstorming,,1
+3,24,Strategy Analysis,Budget Analysis,Porter Five Forces Analysis,Configuration Analysis,,2
+3,25,Goals,Strategies,Key Performance Indicators,Critical Success Factors,,1
+3,26,a goal,a department,a product,a project,,2
+3,27,"Aligned: aligning with the enterprise's vision, mission, and goals, smoothly",Specific: describing something that has an observable outcome,Achievable: testing the feasibility of the effort,Time-bounded: defining a time frame that is consistent with the need. ,,1
+3,28,TRUE,False ,,,,2
+3,29,Define Change Documenting,Analyze Current State,Define Future State,Assess Risks,,1
+3,30,Gap Analysis,Needs Analysis,Requirements Analysis,Budget Analysis,,2
+3,31,Define Strategic Options,Specify and Model Requirements,Validate Requirements,Analyze Potential Value and Recommend Solution,,1
+3,32,Strategy analysis and solution evaluation,Strategy and goals setting,Needs specification and solution evaluation,Strategy analysis and needs evaluation,,2
+3,33,TRUE,False ,,,,1
+3,34,"Matrices, Diagrams","Brainstorms, Matrices","Mind Mapes, Diagrams","Mind Maps, Brainstorms",,2
+3,35,define the data architecture,"understand which models are appropriate for the domain, solution scope, and audience ","organize requirements into structures relevant to different stakeholders, ","ensure the requirements work together to achieve the overall objectives, and ",,1
+3,36,Opportunity Costs,Time Constraints,Budget Constraints,Planned Expenditures,,2
+3,37,Solution Evaluation,Requirements Specification,Needs Assessment,Performance Measures,,1
+3,38,Measure Solution Performance ,Analyze Performance Measures,Assess Solution Limitations,Assess Enterprise Limitations,,2
+3,39,Performance measures,Solution fit,Needs assessment,Economic analysis,,1
+3,40,operational assessment,needs assessment,strategic fit,financial analysis,,2
+3,41,budget,policies and procedures,skill and training needs,tools and technology that support a solution,,1
+3,42,User story,Needs statement,Requirement,Use case ,,2
+3,43,Sequence diagrams,Fish bone diagrams,Source diagrams,Mind maps,,1
+3,44,"identifies areas of uncertainty that could negatively affect value, analyzes and evaluates those uncertainties, and develops and manages ways of dealing with the risks",is used to identify and evaluate the underlying causes of a problem. ,"shows where data comes from, which activities process the data, and if the output results ",are stored or utilized by another activity or external entity.,,2
+3,45,"visually depicts the scope of the solution, by showing the actors who interact with the solution, ","is used to ensure coverage of activities by denoting responsibility, to identify roles, to discover missing roles","is used to identify, express, validate, refine, and organize the rules that shape day-to-day business behavior ",,,1
+3,46,"
+Benchmarking, market analysis","Market analysis, use cases","Business cases, benchmarking","Benchmarking , use cases",,2
+3,47,"to manage performance in any business model, organizational structure, or business process","to understand the financial aspects of an investment, a solution, or a solution approach. ",to provides a justification for a course of action based on the benefits to be realized by ,"using the proposed solution, as compared to the cost, effort, and other considerations to acquire",,1
+3,48,Program Goals,Metrics,Key Performance Indicators,Critical Success factors,,2
+3,49,Decision Analysis,Outcomes Analysis,,,,1
+3,50,Acceptance criteria,Benchmarks,Key Performance Indicators,Customer signoffs,,2
+4,1,Project Charter,Requirements Definition,,,,1
+4,2,Requirements Documentation,Requirements Specification,,,,2
+4,3,Influence/impact Grid,Risk Management Grid,,,,1
+4,4,Project Charter,Requirements Specification,,,,2
+4,5,Process Group,Assessment Team,,,,1
+4,6,boundary,scope,,,,2
+4,7,Plan Cost Management,Budget Management,,,,1
+4,8,What is the budget for information to be stored,"Who needs what information, and who is authorized to access that information;",,,,2
+4,9,Fixed-price Contract,Alternative-Price Contract,,,,1
+4,10,Human Resource Management Plan,Personnel Planning,,,,2
+4,11,Perform Integrated Change Control,Perform Personnel Control,,,,1
+4,12,Interrelationship Digraphs,Mind Maps,,,,2
+4,13,Nominal group technique,Polling,,,,1
+4,14,Conducting risk management planning,conducting risk mitigation,,,,2
+4,15,Work Breakdown Structure,Work Breakdown Schedule,,,,1
+4,16,scope baseline,budget baseline,,,,2
+4,17,Plan Stakeholder Management,Budget Plan Management,,,,1
+4,18,Meetings,Budgets,,,,2
+4,19,Executing Process Group,Meeting Process Group,,,,1
+4,20,Plan Quality Management,Plan Risk Management,,,,2
+4,21,Statement of Work,Support of Work,,,,1
+4,22,project initiator or sponsor,project manager,,,,2
+4,23,customer,sponsor,,,,1
+4,24,strategic plan,budget,,,,2
+4,25,Resolving budgetary issues as they arise,"Resolving resource constraints and conflicts that affect multiple projects within the program,",,,,1
+4,26,Portfolio management,Project management,,,,2
+4,27,Project planning,Risk management,,,,1
+4,28,The cost baseline,The budget baseline,,,,2
+4,29,management reserves,project reserves,,,,1
+4,30,plan cost management,risk cost management,,,,2
+4,31,Performing Quality Assurance,Performing Cost Management,,,,1
+4,32,Vendor Bid Analysis,Vendor Cost Analysis,,,,2
+4,33,external,continuous,,,,1
+4,34,continuous improvement,quality assurance,,,,2
+4,35,Trend analysis,Risk analysis,,,,1
+4,36,Risk Threshold,Risk Probability,,,,2
+4,37,Risk Tolerance,Risk Probability,,,,1
+4,38,"Cause & Effect Diagram, ",Mind Maps,,,,2
+4,39,historical information,client knowledge,,,,1
+4,40,Plan Risk Responses,Plan Budgeting,,,,2
+4,41,transfer,treat,,,,1
+4,42,Avoid,Share,,,,2
+4,43,issue,avoidance,,,,1
+4,44,Direct and Manage Project Budget,Control Quality to inspect and verify the adequacy of the seller’s product,,,,2
+4,45,Seller performance evaluation documentation,Buyer performance evaluation documentation,,,,1
+4,46,records management system,database,,,,2
+4,47,procurement audit,project audit,,,,1
+4,48,Project closure documents,After action reports,,,,2
+4,49,the terms and conditions of the contract,client meeting notes,,,,1
+4,50,Lessons Learned Documentation,After Action Report,,,,2
